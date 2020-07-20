@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PersonalDetails
+comment1.params=
+comment1.target=PersonalDetails()
+comment2.params=
+comment2.target=void\ createPersonalDetails()
+comment3.params=
+comment3.target=void\ readPersonalDetails()
+comment4.params=
+comment4.target=void\ amendPersonalDetails()
+comment5.params=
+comment5.target=void\ amendDetails()
+comment6.params=amend
+comment6.target=void\ amend(java.lang.String)
+comment7.params=
+comment7.target=void\ readDetails()
+comment8.params=detail
+comment8.target=void\ read(java.lang.String)
+comment9.params=
+comment9.target=void\ detailsToAnswer()
+numComments=10

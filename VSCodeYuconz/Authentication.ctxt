@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Authentication
+comment1.params=
+comment1.target=Authentication()
+comment2.params=
+comment2.target=void\ userLogin()
+comment3.params=
+comment3.target=void\ logOut()
+numComments=4
